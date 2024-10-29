@@ -8,7 +8,7 @@
 - 💡 Committed to continuous learning and building end-to-end solutions
 
 ### 🎯 My Journey
-I discovered my passion for coding during university and decided to proactively explore capabilites through online courses like The Odin Project. Through completing The Odin Project, I've developed:
+I discovered my passion for coding during university and decided to further my capabilites through online courses like The Odin Project which developed:
 - Strong problem-solving skills through hands-on project building
 - Proficiency in navigating technical documentation
 - Expertise in version control and collaborative development
