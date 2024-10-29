@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiff
 
-<!--
-**kiffoh/kiffoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Self-taught developer with a Masters in Chemical Engineering (Digital Engineering) from the University of Manchester
+- 🌱 Passionate about leveraging technology to solve real-world problems
+- 🔭 Currently developing EasyMessage, a full-stack messaging application
+- 🌍 Based in the UK
+- 💡 Committed to continuous learning and building end-to-end solutions
 
-Here are some ideas to get you started:
+### 🎯 My Journey
+I discovered my passion for coding during my Masters in Digital Engineering. Through completing The Odin Project, I've developed:
+- Strong problem-solving skills through hands-on project building
+- Proficiency in navigating technical documentation
+- Expertise in version control and collaborative development
+- The ability to build complete end-to-end applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Deployment
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## 🌟 Featured Projects
+
+### EasyMessage
+A real-time messaging platform inspired by WhatsApp, featuring direct and group messaging capabilities.
+
+![Project Preview](https://your-screenshot-url-here.png)
+
+- 🌐 [Live Demo](https://messaging-app-client-eight.vercel.app/)
+- 💻 [Client Repository](https://github.com/kiffoh/messaging-app-client)
+- 🖥️ [Server Repository](https://github.com/kiffoh/messaging-app-server)
+
+**Key Features:**
+- Real-time messaging using Socket.IO
+- User authentication with JWT
+- Media sharing capabilities
+- Responsive design
+- Profile management
+
+**Tech Stack:**
+- Frontend: React, CSS Modules, React Router, Socket.io-client
+- Backend: Node.js, Express.js, Socket.IO, Passport.js
+- Database: PostgreSQL with Prisma ORM
+- Cloud Storage: Cloudinary
+- Testing: Jest
+
+### Modern Blog Platform
+A full-featured blogging platform with clean UI and robust backend.
+
+- 🌐 [Live Demo](https://blog-api-kipper.netlify.app/)
+- 💻 [Repository](https://github.com/kiffoh/blog-api)
+
+**Key Features:**
+- JWT authentication
+- Role-based authorization
+- RESTful API
+- Responsive design
+
+**Tech Stack:**
+- Frontend: React 18, Vite, React Router
+- Backend: Express.js, Prisma ORM, Passport JWT
+- Database: PostgreSQL
+
+## 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiffoh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiffoh&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiffoh/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiffoh)
