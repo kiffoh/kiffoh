@@ -36,9 +36,5 @@ I discovered my passion for coding during university and decided to proactively 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiffoh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiffoh&layout=compact&theme=radical)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiffoh/)
