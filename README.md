@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kiff
 
 ## 👨‍💻 About Me
-- 🎓 Self-taught developer with a Masters in Chemical Engineering (Digital Engineering) from the University of Manchester
+- 🎓 Self-taught developer with a Masters in Chemical Engineering (specialising in Digital Engineering) from the University of Manchester
 - 🌱 Passionate about leveraging technology to solve real-world problems
 - 🔭 Currently developing EasyMessage, a full-stack messaging application
 - 🌍 Based in the UK
 - 💡 Committed to continuous learning and building end-to-end solutions
 
 ### 🎯 My Journey
-I discovered my passion for coding during my Masters in Digital Engineering. Through completing The Odin Project, I've developed:
+I discovered my passion for coding during university and decided to proactively explore capabilites through online courses like The Odin Project. Through completing The Odin Project, I've developed:
 - Strong problem-solving skills through hands-on project building
 - Proficiency in navigating technical documentation
 - Expertise in version control and collaborative development
@@ -83,4 +83,3 @@ A full-featured blogging platform with clean UI and robust backend.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiffoh/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiffoh)
