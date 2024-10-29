@@ -36,46 +36,6 @@ I discovered my passion for coding during university and decided to proactively 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🌟 Featured Projects
-
-### EasyMessage
-A real-time messaging platform inspired by WhatsApp, featuring direct and group messaging capabilities.
-
-- 🌐 [Live Demo](https://messaging-app-client-eight.vercel.app/)
-- 💻 [Client Repository](https://github.com/kiffoh/messaging-app-client)
-- 🖥️ [Server Repository](https://github.com/kiffoh/messaging-app-server)
-
-**Key Features:**
-- Real-time messaging using Socket.IO
-- User authentication with JWT
-- Media sharing capabilities
-- Responsive design
-- Profile management
-
-**Tech Stack:**
-- Frontend: React, CSS Modules, React Router, Socket.io-client
-- Backend: Node.js, Express.js, Socket.IO, Passport.js
-- Database: PostgreSQL with Prisma ORM
-- Cloud Storage: Cloudinary
-- Testing: Jest
-
-### Modern Blog Platform
-A full-featured blogging platform with clean UI and robust backend.
-
-- 🌐 [Live Demo](https://blog-api-kipper.netlify.app/)
-- 💻 [Repository](https://github.com/kiffoh/blog-api)
-
-**Key Features:**
-- JWT authentication
-- Role-based authorization
-- RESTful API
-- Responsive design
-
-**Tech Stack:**
-- Frontend: React 18, Vite, React Router
-- Backend: Express.js, Prisma ORM, Passport JWT
-- Database: PostgreSQL
-
 ## 📈 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiffoh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiffoh&layout=compact&theme=radical)
