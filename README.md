@@ -9,13 +9,31 @@
 
 
 ### 🎯 My Journey
-I discovered my passion for coding during university and decided to further my capabilites through online courses like The Odin Project which developed:
+I discovered my passion for coding during university and independently decided to further my capabilites through online courses like The Odin Project which developed:
 - Strong problem-solving skills through hands-on project building
 - Proficiency in navigating technical documentation
 - Expertise in version control and collaborative development
 - The ability to build complete end-to-end applications
 
-## Developing Skills
+### Developing Skills
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Book base -->
+  <path d="M20 25 L80 25 L80 85 L20 85 Q15 85 15 80 L15 30 Q15 25 20 25" fill="#4a90e2"/>
+  
+  <!-- Book pages -->
+  <path d="M20 25 L75 25 L75 80 L20 80" fill="white" stroke="#2171cd" stroke-width="2"/>
+  
+  <!-- Bookmark -->
+  <path d="M65 22 L65 35 L70 30 L75 35 L75 22" fill="#ff6b6b"/>
+  
+  <!-- Growth arrow -->
+  <path d="M30 65 L45 40 L60 65" fill="none" stroke="#2ecc71" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Sparkles -->
+  <circle cx="35" cy="35" r="2" fill="#ffd700"/>
+  <circle cx="65" cy="45" r="2" fill="#ffd700"/>
+  <circle cx="45" cy="55" r="2" fill="#ffd700"/>
+</svg>
 - Learning Next.js to enhance my full-stack development capabilities
 
 ## 🛠️ Tech Stack
