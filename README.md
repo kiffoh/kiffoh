@@ -12,7 +12,7 @@ My route into software engineering was through Chemical Engineering. I graduated
 |---|---|---|
 | [X-Clone Backend](https://github.com/kiffoh/x-clone-backend) | Java 21, Spring Boot, GraphQL, PostgreSQL, Redis | Relay-style keyset pagination, `@BatchMapping` resolvers to avoid N+1 queries, recursive CTE for reply threads, Testcontainers integration tests, CI with Checkstyle and SpotBugs |
 | [EasyMessage](https://github.com/kiffoh/messaging-app-backend) ([live demo](https://messaging-app-client-eight.vercel.app)) | React, Express, PostgreSQL (Prisma), Socket.IO | Real-time direct and group messaging, JWT auth, role-based group admin, media sharing |
-| [Blog API](https://github.com/kiffoh/blog-api) ([live demo](https://blog-api-kipper.netlify.app/)) | React, Express, PostgreSQL (Prisma) | REST API with JWT auth and role-based authorisation |
+| [Blog API](https://github.com/kiffoh/blog-api) ([live demo](https://blog-api-kipper.netlify.app/)) | React, Express, PostgreSQL (Prisma) | REST API with JWT auth and ownership-based authorisation |
 
 ## Tech Stack
 
